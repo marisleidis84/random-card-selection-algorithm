@@ -1,0 +1,43 @@
+body{
+    background-color: green;
+}
+
+.card{
+    border-radius: 2em;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    float: left;
+    width: 10em;
+    height: 15em;
+    background-color: white;
+}
+
+.numero{
+   font-size: 40px;
+}
+
+.rowSperior{
+    height: 4em;
+    float: left;
+}
+
+.rowNumber{
+    height: 8em;
+    text-align: center;
+    display: flex;
+    align-content: center;
+}
+
+.rowInferior{
+    height: 4em;
+    text-align: right;
+}
+
+.icon1{
+    margin-left: 1em;
+    margin-top: 1em;
+}
+
+.icon2{
+    padding-right:  2em;
+}
